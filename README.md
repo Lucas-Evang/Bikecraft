@@ -7,12 +7,12 @@
  <a href="#autor">Autor</a>
 </p>
 
-<img src""
+<img src"img/bg.png">
 
 ## Descrição do Projeto
+
 <p align="center">Site em desenvolvimento através do curso Web design completo - Origamid
 </p>
-
 
 <h4 align="center"> 
 	🚧  🚴‍♀️ Em construção...  🚧
@@ -25,7 +25,3 @@ Tecnologias utilizadas:
 HTML
 CSS
 JavaScript
-
-
-
-
