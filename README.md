@@ -7,7 +7,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-<img src"img/bg.png">
+<img src"https://github.com/Lucas-Evang/Bikecraft/blob/main/img/bg.jpg">
 
 ## Descrição do Projeto
 
