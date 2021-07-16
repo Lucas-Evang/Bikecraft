@@ -1,27 +1,49 @@
+<p align="center"> <img src="img/bikcraft.svg" alt="Bikcraft"> </p>
+
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#contato">Contato</a> • 
 </p>
-
-<img src"https://github.com/Lucas-Evang/Bikecraft/blob/main/img/bg.jpg">
-
-## Descrição do Projeto
-
-<p align="center">Site em desenvolvimento através do curso Web design completo - Origamid
-</p>
-
 <h4 align="center"> 
 	🚧  🚴‍♀️ Em construção...  🚧
 </h4>
 
+### Features
+
+- [x] Criar design
+- [x] Criar todas as paginas 
+- [ ] Deixar responsivo
+- [ ] Animações em Js
+
+### Demo 🚀
+<a href="https://lucas-evang.github.io/Bikecraft/" target="_blank">Site </a>
+
+### Sobre
+
 Site em desenvolvimento através do curso Web design completo - Origamid
 
-Tecnologias utilizadas:
+### Roadmap
+<ul>
+	<li>Design</li>
+	<li>Html</li>
+	<li>CSS</li>
+	<li>JavaScript</li>
+</ul>
 
-HTML
-CSS
-JavaScript
+### Tecnologias
+<ul>
+	<li>Html</li>
+	<li>CSS</li>
+	<li>JavaScript</li>
+</ul>
+
+### Contato
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lucas-costa-679889a9/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lucas_evang1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
+</p>
