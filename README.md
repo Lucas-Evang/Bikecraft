@@ -14,8 +14,9 @@
 
 - [x] Criar design
 - [x] Criar todas as paginas 
-- [ ] Deixar responsivo
-- [ ] Animações em Js
+- [x] Deixar responsivo
+- [x] Animações em Js
+- [ ] Ajustes finais
 
 ### Demo 🚀
 <a href="https://lucas-evang.github.io/Bikecraft/" target="_blank">Site </a>
