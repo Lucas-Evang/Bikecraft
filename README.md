@@ -20,7 +20,7 @@
 - [x] Ajustes finais
 
 ### Demo 🚀
-<a href="https://lucas-evang.github.io/Bikecraft/" target="_blank">Site </a>
+<a href="https://lucas-evang.github.io/Bikecraft/index.html" target="_blank">Site </a>
 
 ### Sobre
 
