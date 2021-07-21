@@ -7,7 +7,7 @@
  <a href="#contato">Contato</a> • 
 </p>
 <h4 align="center"> 
-	🚧  🚴‍♀️ Em construção...  🚧
+	  🚴‍♀️ Finalizado... 
 </h4>
 
 ### Features
@@ -16,7 +16,8 @@
 - [x] Criar todas as paginas 
 - [x] Deixar responsivo
 - [x] Animações em Js
-- [ ] Ajustes finais
+- [x] SEO e Head
+- [x] Ajustes finais
 
 ### Demo 🚀
 <a href="https://lucas-evang.github.io/Bikecraft/" target="_blank">Site </a>
